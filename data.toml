@@ -1,0 +1,31 @@
+mission = "I Wish to create a respect for mathematics and programming, the world today is dead!"
+author = "João Vitor Silveira Ribeiro"
+keywords = ["keyword one", "keyword two"]
+
+[[experiences]]
+title = "E4 Sistemas"
+description = "I worked"
+
+[[experiences]]
+title = "Zaap"
+description = "I worked"
+
+[articles]
+description = "my articles"
+list = ["Article one", "article two"]
+
+[projects]
+description = "my projects"
+list = ["project one", "project two"]
+
+[education]
+description = "my education"
+list = ["education one", "education two"]
+
+[skills]
+description = "my skills"
+list = ["skill one", "skill two"]
+
+[languages]
+description = "my languages"
+list = ["language one", "language two"]
